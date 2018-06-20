@@ -1,0 +1,41 @@
+[10:14 PM] Ghostpaw: are we allowed to discuss here or is it just dumps
+[11:32 PM] croissant: Mostly dumps
+April 17, 2018
+[6:06 PM] croissant: Full Cowboy Method spreadsheet:
+
+https://docs.google.com/spreadsheets/d/168Vorgn-61gsS9ckKOeWzO2x9ddTfntpVY9tyQmOWcU/edit?usp=sharing
+
+File > Make a copy and update the Maxes sheet to generate program for yourself.(edited)
+Google Docs
+Full Cowboy Method
+Program
+
+ Week 1, Week 5, Week 9, Week 13( Test Week)
+ Day 1( Monday),%, Reps, Sets, Load, Day 1( Monday),%, Reps, Sets, Load, Day 1( Monday),%, Reps, Sets, Load, Day 1( Monday),%, Reps, Sets, Load
+ Back Squat, 60%, 5, 10, 120, Back Squat, 65%, 5...
+
+April 22, 2018
+[11:34 AM] croissant: Volume parameter breakdown of Texas Method with 85% for projected 5rm and 85%^2 for top 3 sets of 5x5s:
+
+https://docs.google.com/spreadsheets/d/1HNkPTC9EEzonBAW_Xw_uOEml5o7BtjUQSVV7r4WJaoc/edit?usp=sharing(edited)
+Google Docs
+Texas Method
+Program
+
+ Week 1, Week 2, Week 3, Week 4
+ Day 1( Monday),% of current 5RM, Reps, Sets, Load, Day 1( Monday),% of current 5RM, Reps, Sets, Load, Day 1( Monday),% of current 5RM, Reps, Sets, Load, Day 1( Monday),% of current 5RM, Reps, Sets, Load
+ ...
+
+June 19, 2018
+[8:10 PM] croissant: https://docs.google.com/spreadsheets/d/1XbJt84rXOkRgPTcEWE5ysSU0zdYPr2MyIZuKv0y9Cf4/edit?usp=sharing Kazmaier-ed Heavy, Light, Medium (HLM) template from a discussion with @CESS on Sheiko's beginner guidelines: 5x10 instead of 5x5 for a monthly NOL of 600 and average relative intensity of 60%.
+
+Copy the spreadsheet to your own Drive account and change 1RM and Smallest Load Increment to suit your situation.
+Google Docs
+Kazmaier-ed HLM
+Template
+
+ Day, Sets, Reps, Load, Intensity( of 1RM), Intensity( of Weekly cap), Intensity( Weekly cap), 1RM, Smallest Load Increment
+ Heavy, 5, 10, 65, 67%, 100%, 67%, 100, 5
+ Light, 55, 54%, 80%
+ Medium, 60, 60%, 90%
+
